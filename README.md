@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'M Eduardo Monte 👋
 
-<!--
-**eduardomonte/eduardomonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intro
 
-Here are some ideas to get you started:
+An Antorney traying to learn a new experience. Corrently I'm a student learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- HTML and CSS
+- React.js
+- Node.js
+
+## My Course
+
+I'm studie Systems Analysis and Development.
