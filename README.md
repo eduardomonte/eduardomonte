@@ -1,4 +1,4 @@
-### Hi, I'M Eduardo Monte 👋
+### Hi, I'm Eduardo Monte 👋
 
 ## Intro
 
